@@ -1,4 +1,5 @@
 ### Hi there 👋
+```
                   ___====-_  _-====___
             _--^^^#####//      \\#####^^^--_
          _-^##########// (    ) \\##########^-_
@@ -15,7 +16,7 @@
                      (  | |  | |  )
                     __\ | |  | | /__
                    (vvv(VVV)(VVV)vvv)
-
+```
 <!--
 **DuGuYifei/DuGuYifei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
