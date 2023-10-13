@@ -5,6 +5,7 @@
 <!-- 技能图标：https://github.com/devicons/devicon -->
 
 - **Language**:
+
   ![C](https://img.shields.io/badge/lang-C-blue?logo=c)
   ![C++](https://img.shields.io/badge/lang-C++-blue?logo=c%2B%2B)
   ![C#](https://img.shields.io/badge/lang-C%23-blue?logo=c-sharp)
@@ -17,6 +18,7 @@
   ![CSS3](https://img.shields.io/badge/lang-CSS3-blue?logo=css3)
 
 - **Framework / Library**:
+
   ![Spring](https://img.shields.io/badge/arch-Spring-green?logo=spring)
   ![Spring Boot](https://img.shields.io/badge/arch-Spring%20Boot-green?logo=spring-boot)
   ![Spring Cloud](https://img.shields.io/badge/arch-Spring%20Cloud-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTcuOTEgMTA3LjE0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzZkYjMzZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tc3ByaW5nLWNsb3VkPC90aXRsZT48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iaWNvbnMiPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTUyLjc1LDg3LjJhMy4yMSwzLjIxLDAsMSwxLS40Ny00LjUyQTMuMjEsMy4yMSwwLDAsMSw1Mi43NSw4Ny4yWm01MS0xMS4yNUM5NC40NSw4OC4zLDc0LjY2LDg0LjE0LDYyLDg0LjczYzAsMC0yLjI1LjEzLTQuNTIuNSwwLDAsLjg2LS4zNiwxLjk1LS43NEM2OC4zMiw4MS40MSw3Mi41Myw4MC43OSw3OCw3OGMxMC4xNy01LjIxLDIwLjMtMTYuNTYsMjIuMzYtMjguMzZDOTYuNDQsNjEsODQuNjYsNzAuNzUsNzMuOTMsNzQuNzJjLTcuMzQsMi43LTIwLjYyLDUuMzQtMjAuNjIsNS4zNGwtLjU0LS4yOGMtOS00LjM5LTkuMjktMjQsNy4xMS0zMC4yNiw3LjE5LTIuNzYsMTQuMDctMS4yNCwyMS44NC0zLjA5LDguMjktMiwxNy44OS04LjE5LDIxLjgtMTYuMzJDMTA3Ljg5LDQzLjA5LDExMy4xNSw2My4zOSwxMDMuNzIsNzZaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTIyLjMzLDEwNy4xNEgzOS43OUEzOS43OSwzOS43OSwwLDAsMSwzMy44NiwyOEMzOSwyMC44OCw0NS40MiwxMi44OCw1NC43NCw3LjQyYTU0LjIxLDU0LjIxLDAsMCwxLDYxLjUzLDQuNjlsLjEuMDlhNzcuNDksNzcuNDksMCwwLDEsMTEuNjgsMTIuNTEsMzksMzksMCwwLDEsNi42NCwxMi43NGMuMDkuMzMuMTcuNTIuMjEuNjQuMi4xLjU1LjI1LjgzLjM3bDEuMDcuNDdhMzYuMzcsMzYuMzcsMCwwLDEsMTMuNTcsMTAuNzEsMzUuNTksMzUuNTksMCwwLDEtMjgsNTcuNVpNODIuMDgsOGE0Ni4yMyw0Ni4yMywwLDAsMC0yMy4zLDYuMzJjLTguMDUsNC43Mi0xMy44NiwxMi0xOC40NywxOC40MWwtLjE5LjI4QTUuNjEsNS42MSwwLDAsMSwzNiwzNS43OGEzMS43OSwzMS43OSwwLDAsMCwzLjgsNjMuMzZoODIuNTRhMjcuNTksMjcuNTksMCwwLDAsMjEuNzMtNDQuNTgsMjguNTgsMjguNTgsMCwwLDAtNi41NS02LjEsMjksMjksMCwwLDAtNC0yLjI2bC0uODktLjM5QTEwLjE5LDEwLjE5LDAsMCwxLDEyOS40Nyw0NCw4Ljg5LDguODksMCwwLDEsMTI3LDM5LjYxYTMxLDMxLDAsMCwwLTUuMzctMTAuMTRBNzAsNzAsMCwwLDAsMTExLjIsMTguMyw0Ni4wNSw0Ni4wNSwwLDAsMCw4Mi4wOCw4WiIvPjwvZz48L2c+PC9zdmc+)
@@ -26,19 +28,23 @@
   ![Next.js](https://img.shields.io/badge/arch-Next.js-green?logo=next.js)
 
 - **Data**:
+
   ![SQL](https://img.shields.io/badge/data-SQL-yellow?logo=sql)
   ![NoSQL](https://img.shields.io/badge/data-NoSQL-yellow?logo=nosql)
   ![Hadoop](https://img.shields.io/badge/data-Hadoop-yellow?logo=hadoop)
 
 - **AI**:
+
   ![PyTorch](https://img.shields.io/badge/AI-PyTorch-red?logo=pytorch)
   ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-red?logo=deepnote)
 
 - **Dev**
-  ![Azure](https://img.shields.io/badge/dev-Azure-blue?logo=microsoftazure)
-  ![Tencent](https://img.shields.io/badge/dev-Tencent-blue?logo=tencentqq)
+
+  ![Azure](https://img.shields.io/badge/dev-Azure-cyan?logo=microsoftazure)
+  ![Tencent](https://img.shields.io/badge/dev-Tencent-cyan?logo=tencentqq)
 
 - **Others**:
+
   ![Unity](https://img.shields.io/badge/-Unity-gray?logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0d1117?logo=unreal-engine)
   ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma)
@@ -46,15 +52,6 @@
 
 ---
 
-# Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=tokyonight" alt="DuGuYifei's Github Public Repo Stats" height="165px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=tokyonight" alt="DuGuYifei's Top Lans" height="165px">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuGuYifei&theme=dracula" alt="Contribution" >
-</p>
 
 # Websites
 
@@ -65,3 +62,13 @@
 🎮 Project blog: [https://github.liuyifei.tech/blog](https://duguyifei.github.io/blog)
 
 🎖️ Leetcode: [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)
+
+# Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=tokyonight" alt="DuGuYifei's Github Public Repo Stats" height="165px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=tokyonight" alt="DuGuYifei's Top Lans" height="165px">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuGuYifei&theme=dracula" alt="Contribution" >
+</p>
