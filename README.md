@@ -30,8 +30,16 @@
 - **Data**:
 
   ![SQL](https://img.shields.io/badge/data-SQL-yellow?logo=sql)
+  ![ShardingSphere](https://img.shields.io/badge/data-ShardingSphere-yellow?logo=ShardingSphere)
   ![NoSQL](https://img.shields.io/badge/data-NoSQL-yellow?logo=nosql)
-  ![Hadoop](https://img.shields.io/badge/data-Hadoop-yellow?logo=hadoop)
+  ![Hadoop](https://img.shields.io/badge/data-Hadoop-orange?logo=hadoop)
+  ![Hive](https://img.shields.io/badge/data-Hadoop-orange?logo=hive)
+  ![HBase](https://img.shields.io/badge/data-Hadoop-orange?logo=hbase)
+  ![ApachePhoenix](https://img.shields.io/badge/data-Hadoop-orange?logo=phoenix)
+  ![Spark](https://img.shields.io/badge/data-Hadoop-orange?logo=spark)
+  ![Kafka](https://img.shields.io/badge/data-Hadoop-orange?logo=kafka)
+  ![Nifi](https://img.shields.io/badge/data-Hadoop-orange?logo=nifi)
+  ![Doris](https://img.shields.io/badge/data-Hadoop-orange?logo=doris)
 
 - **AI**:
 
