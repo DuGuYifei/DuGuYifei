@@ -46,7 +46,7 @@
   ![PyTorch](https://img.shields.io/badge/AI-PyTorch-red?logo=pytorch)
   ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-red?logo=deepnote)
 
-- **Dev**
+- **Server Experience**
 
   ![Azure](https://img.shields.io/badge/dev-Azure-cyan?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABbUlEQVR4AbTQA4gYcBSA8a+FMWMZS8vWvDwjzLZt27Ztpi3Ntm2Eeed4392rs/mrv/ke1W+wVNwyG7POuWyT8ttlV6Y8SmeBNVjufZpI2aQKS5zHxDuy0cOscRyT7soB+1Gq5cImTzLhtnEoxqxKe8b4mzL7029uS8kWO5aJt2XCLVnnebYLE+8aF2TNrQYp2jRh5sskYnMc2moDFriNOBhzUSbdl0NStO3uYHzW5g3eJmx0T74LYn2j53Ax+c2wPpPuGZsieSy0NWGbsMGbORdn/Y5VNiGHwjqv5mxYlfKK05Jjg7D457dYy92T+jrmA+y1HeNv5yZqpX0oaIm1mPY8tUAoIwms8yzL/rxn+b+3rPcm86WQDcJuO+cLZearRIYLnBSmZpWjwmobstyBrHITK73Mwl/fmfRYxt3LLHczy52scld2uZd8elmPizbjgy35mDFgPrj/3wyIDYFYG4g1UPDD/5oM14HilAIARgURWf9LTkkAAAAASUVORK5CYII=)
   ![Tencent](https://img.shields.io/badge/dev-Tencent-cyan?logo=tencentqq)
