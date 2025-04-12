@@ -66,9 +66,9 @@
 
 🌍 My website: [https://github.liuyifei.tech](https://duguyifei.github.io)
 
-📚 Notes blog: [https://liuyifei.tech/trilium](https://liuyifei.tech/trilium)
+📚 Notes blog: [https://liuyifei.tech/trilium](https://notes.liuyifei.tech)
 
-🎮 Project blog: [https://github.liuyifei.tech/blog](https://duguyifei.github.io/blog)
+🎮 Project blog: [https://github.liuyifei.tech/blog](https://project.liuyifei.tech)
 
 🎖️ Leetcode: [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)
 
