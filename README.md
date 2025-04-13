@@ -84,7 +84,7 @@
 
 🎥 Leetcode Record: [https://github.com/duguyifei/Leetcode_Record](https://github.com/duguyifei/Leetcode_Record)
 
-🎬 Bilibili: https://b23.tv/HRbF8sa
+🎬 Bilibili: [https://b23.tv/HRbF8sa](https://b23.tv/HRbF8sa)
 
 # Github Stats
 <p align="center">
