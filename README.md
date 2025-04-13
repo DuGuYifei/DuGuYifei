@@ -62,7 +62,7 @@
 
 - **Tools**
 
-  ![Docker](https://img.shields.io/badge/-Docker-00d2ff?logo=Docker)
+  ![Docker](https://img.shields.io/badge/-Docker-dadce0?logo=Docker)
   ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma)
   ![Git](https://img.shields.io/badge/-Git-603229?logo=git)
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?logo=OPenAI)
