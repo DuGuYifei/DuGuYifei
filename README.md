@@ -80,10 +80,11 @@
 
 🎮 Project blog: [https://project.liuyifei.tech](https://project.liuyifei.tech)
 
-
 🎖️ Leetcode: [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)
 
 🎥 Leetcode Record: [https://github.com/duguyifei/Leetcode_Record](https://github.com/duguyifei/Leetcode_Record)
+
+🎬 Bilibili: https://b23.tv/HRbF8sa
 
 # Github Stats
 <p align="center">
