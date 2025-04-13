@@ -60,13 +60,14 @@
   ![Unity](https://img.shields.io/badge/-Unity-gray?logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0d1117?logo=unreal-engine)
 
-- Tools
+- **Tools**
 
   ![Docker](https://img.shields.io/badge/-Docker-00d2ff?logo=Docker)
   ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma)
   ![Git](https://img.shields.io/badge/-Git-603229?logo=git)
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?logo=OPenAI)
   ![Copilot](https://img.shields.io/badge/-Copilot-4f42c6?logo=github)
+  ![Jira](https://img.shields.io/badge/-Jira-EDF0FF?logo=Jira)
 
 ---
 
