@@ -67,7 +67,7 @@
   ![Git](https://img.shields.io/badge/-Git-603229?logo=git)
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?logo=OPenAI)
   ![Copilot](https://img.shields.io/badge/-Copilot-4f42c6?logo=github)
-  ![Jira](https://img.shields.io/badge/-Jira-EDF0FF?logo=Jira)
+  ![Jira](https://img.shields.io/badge/-Jira-2684ff?logo=Jira)
 
 ---
 
