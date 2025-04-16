@@ -76,7 +76,7 @@
 
 # Websites
 
-🌍 My website: [https://github.liuyifei.tech](https://github.liuyifei.tech)
+🌍 My website: [https://about.liuyifei.tech](https://about.liuyifei.tech)
 
 📚 Notes blog: [https://notes.liuyifei.tech](https://notes.liuyifei.tech)
 
