@@ -91,9 +91,9 @@
 
 # Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=dracula" alt="DuGuYifei's Github Public Repo Stats" height="180px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=dracula" alt="DuGuYifei's Top Lans" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=dracula" alt="DuGuYifei's Github Public Repo Stats" height="175px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=dracula" alt="DuGuYifei's Top Lans" height="175px">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuGuYifei&theme=dracula" alt="Contribution" height="200px" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuGuYifei&theme=dracula" alt="Contribution" height="260px" >
 </p>
