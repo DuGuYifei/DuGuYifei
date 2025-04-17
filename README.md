@@ -1,5 +1,5 @@
-![rabbit_hacker_transparent_no_table](https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a)
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a" width="60%" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20DuGuYifei%20&fontSize=90&rotate=-2" >
 </p>
 
