@@ -1,3 +1,4 @@
+![rabbit_hacker_transparent_no_table](https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20DuGuYifei%20&fontSize=90&rotate=-2" >
 </p>
@@ -90,8 +91,7 @@
 
 # Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=dracula" alt="DuGuYifei's Github Public Repo Stats" height="230px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=dracula" alt="DuGuYifei's Top Lans" height="230px">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuGuYifei&rank_icon=rank&show_icons=true&theme=dracula" alt="DuGuYifei's Github Public Repo Stats" height="230px">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuGuYifei&layout=compact&langs_count=6&theme=dracula" alt="DuGuYifei's Top Lans" height="230px">
 </p>
 
 <p align="center">
