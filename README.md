@@ -1,10 +1,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20DuGuYifei%20&fontSize=90&rotate=-2" >
-  <img src="https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a" width="60%" >
 </p>
 
-<!-- 技能图标：https://github.com/devicons/devicon -->
 
+# Websites
+
+|🌍 My website | [https://about.liuyifei.tech](https://about.liuyifei.tech) |
+| :------------: | :--------------------------------------------------------- |
+|🎮 Project blog | [https://project.liuyifei.tech](https://project.liuyifei.tech)|
+|📚 Notes blog | [https://notes.liuyifei.tech](https://notes.liuyifei.tech)|
+|🎖️ Leetcode | [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)|
+|🎥 Leetcode Record | [https://github.com/duguyifei/Leetcode_Record](https://github.com/duguyifei/Leetcode_Record)|
+|🎬 Bilibili | [https://b23.tv/HRbF8sa](https://b23.tv/HRbF8sa)|
+
+<!-- 技能图标：https://github.com/devicons/devicon -->
 - **Language**:
 
   ![C](https://img.shields.io/badge/lang-C-blue?logo=c)
@@ -16,7 +25,8 @@
   ![R](https://img.shields.io/badge/lang-R-blue?logo=r)
 
 - **Framework / Library**:
-
+  <img src="https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a" width="50%" align="right" >
+  
   ![Spring Boot](https://img.shields.io/badge/arch-Spring%20Boot-6db33f?logo=spring-boot)
   ![spring cloud](https://img.shields.io/badge/arch-Spring%20Cloud-6db33f?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTcuOTEgMTA3LjE0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzZkYjMzZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tc3ByaW5nLWNsb3VkPC90aXRsZT48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iaWNvbnMiPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTUyLjc1LDg3LjJhMy4yMSwzLjIxLDAsMSwxLS40Ny00LjUyQTMuMjEsMy4yMSwwLDAsMSw1Mi43NSw4Ny4yWm01MS0xMS4yNUM5NC40NSw4OC4zLDc0LjY2LDg0LjE0LDYyLDg0LjczYzAsMC0yLjI1LjEzLTQuNTIuNSwwLDAsLjg2LS4zNiwxLjk1LS43NEM2OC4zMiw4MS40MSw3Mi41Myw4MC43OSw3OCw3OGMxMC4xNy01LjIxLDIwLjMtMTYuNTYsMjIuMzYtMjguMzZDOTYuNDQsNjEsODQuNjYsNzAuNzUsNzMuOTMsNzQuNzJjLTcuMzQsMi43LTIwLjYyLDUuMzQtMjAuNjIsNS4zNGwtLjU0LS4yOGMtOS00LjM5LTkuMjktMjQsNy4xMS0zMC4yNiw3LjE5LTIuNzYsMTQuMDctMS4yNCwyMS44NC0zLjA5LDguMjktMiwxNy44OS04LjE5LDIxLjgtMTYuMzJDMTA3Ljg5LDQzLjA5LDExMy4xNSw2My4zOSwxMDMuNzIsNzZaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTIyLjMzLDEwNy4xNEgzOS43OUEzOS43OSwzOS43OSwwLDAsMSwzMy44NiwyOEMzOSwyMC44OCw0NS40MiwxMi44OCw1NC43NCw3LjQyYTU0LjIxLDU0LjIxLDAsMCwxLDYxLjUzLDQuNjlsLjEuMDlhNzcuNDksNzcuNDksMCwwLDEsMTEuNjgsMTIuNTEsMzksMzksMCwwLDEsNi42NCwxMi43NGMuMDkuMzMuMTcuNTIuMjEuNjQuMi4xLjU1LjI1LjgzLjM3bDEuMDcuNDdhMzYuMzcsMzYuMzcsMCwwLDEsMTMuNTcsMTAuNzEsMzUuNTksMzUuNTksMCwwLDEtMjgsNTcuNVpNODIuMDgsOGE0Ni4yMyw0Ni4yMywwLDAsMC0yMy4zLDYuMzJjLTguMDUsNC43Mi0xMy44NiwxMi0xOC40NywxOC40MWwtLjE5LjI4QTUuNjEsNS42MSwwLDAsMSwzNiwzNS43OGEzMS43OSwzMS43OSwwLDAsMCwzLjgsNjMuMzZoODIuNTRhMjcuNTksMjcuNTksMCwwLDAsMjEuNzMtNDQuNTgsMjguNTgsMjguNTgsMCwwLDAtNi41NS02LjEsMjksMjksMCwwLDAtNC0yLjI2bC0uODktLjM5QTEwLjE5LDEwLjE5LDAsMCwxLDEyOS40Nyw0NCw4Ljg5LDguODksMCwwLDEsMTI3LDM5LjYxYTMxLDMxLDAsMCwwLTUuMzctMTAuMTRBNzAsNzAsMCwwLDAsMTExLjIsMTguMyw0Ni4wNSw0Ni4wNSwwLDAsMCw4Mi4wOCw4WiIvPjwvZz48L2c+PC9zdmc+)
   ![eureka](https://img.shields.io/badge/arch-Eureka-6db33f?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTguMTMgMTU4LjEzIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9LmNscy0ye2ZpbGw6IzcxYmQ1NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPkV1cmVrYV9Mb2dvX01hcmtfQ29sb3JfUkdCPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIxNTguMTMiIGhlaWdodD0iMTU4LjEzIiByeD0iMTQuODQiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0xMDEuODQsMTE5LjE1SDU0YTUuNjUsNS42NSwwLDAsMS00LTkuNjRMODAuMjksNzkuMTksNTAuODMsNDkuNzNhNS42NSw1LjY1LDAsMCwxLDQtOS42NGg0N2E1LjY1LDUuNjUsMCwwLDEsMCwxMS4zSDY4LjQ1TDkyLjI3LDc1LjJhNS42NSw1LjY1LDAsMCwxLDAsOEw2Ny41OSwxMDcuODZoMzQuMjVhNS42NSw1LjY1LDAsMCwxLDAsMTEuMjlaIi8+PC9zdmc+)
@@ -84,21 +94,6 @@
   ![Nginx](https://img.shields.io/badge/-Nginx-099543?logo=Nginx)
   ![Caddy](https://img.shields.io/badge/-Caddy-d6ecda?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwarWcAkN0AkN0AkN0AkN0AkN0AkN4AkN0AkN4AkN4AkN0AkN0AkN0AkN0itjgitjgitjYitjgitjYAkN0itjgAkN0itjgitjgitzAitjgitjgAkN4itzEitjgjuR/NDNU1AAAAIHRSTlMACkWa2v9x9IxaNuoiEMgZQer/nn94qCp0UrnEt2HXM67wCgwAAAFsSURBVHgBldPRcoMgFATQFVkViKbeUFONaf//L+uFyoSZ9qHnLbDA3nGCWoO/mdZS2dbgF12ve4Pz3g2BbYPaJZAcxvJz4oBXjuSUD12RGIax3k8n3mYRuUGN5AXIPMmIw7tkZ8INDorkgsP92PtYN5FHOccAIJI91LGlPW4i11yDMTCmCzzULFuqKbLiMDDCcIcnd+RA7teIPHP1YHTcLtWtAyug66rBQgt1X2d5rM/DMemKwAkxhAaY8ohPqczOpv7QQKr4KbUvpIDXQJMDG5rTl8hbHsQBC3EGinsOYGenbf8O9NrPn088dPYqMJK6QIPD+lzhLdvXQGQaYF8wLn2/+50M1Q0k81czzNgju6ZAR05QtuzjtiUPDTRkfl2TO9CSLWY5XWHLi0v+XKTF9vlj1VV6JG26akwvFro/INOOzgQyophILjjZeobUqpwv+fLHMW1Ke7zyMZox6joT6/CrS9fu0z64Ef/wDWurGHYkk76+AAAAAElFTkSuQmCC)
 ---
-
-
-# Websites
-
-🌍 My website: [https://about.liuyifei.tech](https://about.liuyifei.tech)
-
-📚 Notes blog: [https://notes.liuyifei.tech](https://notes.liuyifei.tech)
-
-🎮 Project blog: [https://project.liuyifei.tech](https://project.liuyifei.tech)
-
-🎖️ Leetcode: [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)
-
-🎥 Leetcode Record: [https://github.com/duguyifei/Leetcode_Record](https://github.com/duguyifei/Leetcode_Record)
-
-🎬 Bilibili: [https://b23.tv/HRbF8sa](https://b23.tv/HRbF8sa)
 
 # Github Stats
 <p align="center">
