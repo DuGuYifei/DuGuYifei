@@ -12,7 +12,6 @@
 |🎮 Project blog | [https://project.liuyifei.tech](https://project.liuyifei.tech)|
 |📚 Notes blog | [https://notes.liuyifei.tech](https://notes.liuyifei.tech)|
 |🎖️ Leetcode | [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)|
-|🎥 Leetcode Record | [https://github.com/duguyifei/Leetcode_Record](https://github.com/duguyifei/Leetcode_Record)|
 |🎬 Bilibili | [https://b23.tv/HRbF8sa](https://b23.tv/HRbF8sa)|
 
 <!-- 技能图标：https://github.com/devicons/devicon -->
