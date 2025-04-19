@@ -5,6 +5,8 @@
 
 # Websites
 
+<img src="https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a" width="50%" align="right" >
+
 |🌍 My website | [https://about.liuyifei.tech](https://about.liuyifei.tech) |
 | :------------: | :--------------------------------------------------------- |
 |🎮 Project blog | [https://project.liuyifei.tech](https://project.liuyifei.tech)|
@@ -25,7 +27,6 @@
   ![R](https://img.shields.io/badge/lang-R-blue?logo=r)
 
 - **Framework / Library**:
-  <img src="https://github.com/user-attachments/assets/b62460bf-1f6f-40cb-af17-f371ffed406a" width="50%" align="right" >
   
   ![Spring Boot](https://img.shields.io/badge/arch-Spring%20Boot-6db33f?logo=spring-boot)
   ![spring cloud](https://img.shields.io/badge/arch-Spring%20Cloud-6db33f?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTcuOTEgMTA3LjE0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzZkYjMzZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tc3ByaW5nLWNsb3VkPC90aXRsZT48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iaWNvbnMiPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTUyLjc1LDg3LjJhMy4yMSwzLjIxLDAsMSwxLS40Ny00LjUyQTMuMjEsMy4yMSwwLDAsMSw1Mi43NSw4Ny4yWm01MS0xMS4yNUM5NC40NSw4OC4zLDc0LjY2LDg0LjE0LDYyLDg0LjczYzAsMC0yLjI1LjEzLTQuNTIuNSwwLDAsLjg2LS4zNiwxLjk1LS43NEM2OC4zMiw4MS40MSw3Mi41Myw4MC43OSw3OCw3OGMxMC4xNy01LjIxLDIwLjMtMTYuNTYsMjIuMzYtMjguMzZDOTYuNDQsNjEsODQuNjYsNzAuNzUsNzMuOTMsNzQuNzJjLTcuMzQsMi43LTIwLjYyLDUuMzQtMjAuNjIsNS4zNGwtLjU0LS4yOGMtOS00LjM5LTkuMjktMjQsNy4xMS0zMC4yNiw3LjE5LTIuNzYsMTQuMDctMS4yNCwyMS44NC0zLjA5LDguMjktMiwxNy44OS04LjE5LDIxLjgtMTYuMzJDMTA3Ljg5LDQzLjA5LDExMy4xNSw2My4zOSwxMDMuNzIsNzZaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTIyLjMzLDEwNy4xNEgzOS43OUEzOS43OSwzOS43OSwwLDAsMSwzMy44NiwyOEMzOSwyMC44OCw0NS40MiwxMi44OCw1NC43NCw3LjQyYTU0LjIxLDU0LjIxLDAsMCwxLDYxLjUzLDQuNjlsLjEuMDlhNzcuNDksNzcuNDksMCwwLDEsMTEuNjgsMTIuNTEsMzksMzksMCwwLDEsNi42NCwxMi43NGMuMDkuMzMuMTcuNTIuMjEuNjQuMi4xLjU1LjI1LjgzLjM3bDEuMDcuNDdhMzYuMzcsMzYuMzcsMCwwLDEsMTMuNTcsMTAuNzEsMzUuNTksMzUuNTksMCwwLDEtMjgsNTcuNVpNODIuMDgsOGE0Ni4yMyw0Ni4yMywwLDAsMC0yMy4zLDYuMzJjLTguMDUsNC43Mi0xMy44NiwxMi0xOC40NywxOC40MWwtLjE5LjI4QTUuNjEsNS42MSwwLDAsMSwzNiwzNS43OGEzMS43OSwzMS43OSwwLDAsMCwzLjgsNjMuMzZoODIuNTRhMjcuNTksMjcuNTksMCwwLDAsMjEuNzMtNDQuNTgsMjguNTgsMjguNTgsMCwwLDAtNi41NS02LjEsMjksMjksMCwwLDAtNC0yLjI2bC0uODktLjM5QTEwLjE5LDEwLjE5LDAsMCwxLDEyOS40Nyw0NCw4Ljg5LDguODksMCwwLDEsMTI3LDM5LjYxYTMxLDMxLDAsMCwwLTUuMzctMTAuMTRBNzAsNzAsMCwwLDAsMTExLjIsMTguMyw0Ni4wNSw0Ni4wNSwwLDAsMCw4Mi4wOCw4WiIvPjwvZz48L2c+PC9zdmc+)
