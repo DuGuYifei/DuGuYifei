@@ -80,6 +80,9 @@
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?logo=OPenAI)
   ![Copilot](https://img.shields.io/badge/-Copilot-4f42c6?logo=github)
   ![DeepSeek](https://img.shields.io/badge/-DeepSeek-8ab0f2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcExNa/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5glKuKAAAAD3RSTlMA05QmPhvxp+O+dGJWhBD9rd47AAAA0UlEQVQokcWR2RbDIAhEARXXhP//26IYY9o+9pzOQ9C5LkwE+K9CiaTllIfrCJkRReTUWRMyu/VPlKU+rVodOJ+TTvBmwg7Aa83djAAkD3kAXsMg8k6dDehj46LZ9xvZO3+knVIRqaNfSaN4wxGKLWgGr8jjfMRJw/BYM5m6yzKjmYVywL6XzmgRp7N+493WPE3bXltX5nw5ONeFee1941zeqaDivB96vYLGOkby3moO8KSJejfxtPdLG/W82hRslPMBu8rEXOCbQqu1ha/o13oBhAwQQ4gEzPgAAAAASUVORK5CYII=)
+
+  ![Nginx](https://img.shields.io/badge/-Nginx-099543?logo=Nginx)
+  ![Caddy](https://img.shields.io/badge/-Caddy-d6ecda?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwarWcAkN0AkN0AkN0AkN0AkN0AkN4AkN0AkN4AkN4AkN0AkN0AkN0AkN0itjgitjgitjYitjgitjYAkN0itjgAkN0itjgitjgitzAitjgitjgAkN4itzEitjgjuR/NDNU1AAAAIHRSTlMACkWa2v9x9IxaNuoiEMgZQer/nn94qCp0UrnEt2HXM67wCgwAAAFsSURBVHgBldPRcoMgFATQFVkViKbeUFONaf//L+uFyoSZ9qHnLbDA3nGCWoO/mdZS2dbgF12ve4Pz3g2BbYPaJZAcxvJz4oBXjuSUD12RGIax3k8n3mYRuUGN5AXIPMmIw7tkZ8INDorkgsP92PtYN5FHOccAIJI91LGlPW4i11yDMTCmCzzULFuqKbLiMDDCcIcnd+RA7teIPHP1YHTcLtWtAyug66rBQgt1X2d5rM/DMemKwAkxhAaY8ohPqczOpv7QQKr4KbUvpIDXQJMDG5rTl8hbHsQBC3EGinsOYGenbf8O9NrPn088dPYqMJK6QIPD+lzhLdvXQGQaYF8wLn2/+50M1Q0k81czzNgju6ZAR05QtuzjtiUPDTRkfl2TO9CSLWY5XWHLi0v+XKTF9vlj1VV6JG26akwvFro/INOOzgQyophILjjZeobUqpwv+fLHMW1Ke7zyMZox6joT6/CrS9fu0z64Ef/wDWurGHYkk76+AAAAAElFTkSuQmCC)
 ---
 
 
