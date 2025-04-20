@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/69945499-d089-4651-89be-4eed23f11872" width="40%" align="right" style="position: fixed; bottom: 0px; right: 0px; z-index: 1000;" >
 
 |🌍 My website | [https://about.liuyifei.tech](https://about.liuyifei.tech) |
-| :------------: | :--------------------------------------------------------- |
+| :------------ | :--------------------------------------------------------- |
 |🎮 Project blog | [https://project.liuyifei.tech](https://project.liuyifei.tech)|
 |📚 Notes blog | [https://notes.liuyifei.tech](https://notes.liuyifei.tech)|
 |🎖️ Leetcode | [https://leetcode.cn/u/duguyifei/](https://leetcode.cn/u/duguyifei/)|
