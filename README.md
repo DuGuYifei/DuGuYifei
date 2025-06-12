@@ -86,6 +86,9 @@
   ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma)
   ![Git](https://img.shields.io/badge/-Git-603229?logo=git)
   ![Jira](https://img.shields.io/badge/-Jira-2684ff?logo=Jira)
+  ![k8s](https://img.shields.io/badge/-k8s-f7f7f7?logo=kubernetes)
+  ![Terraform](https://img.shields.io/badge/-Terraform-c6cbf3?logo=Terraform)
+  ![Ansible](https://img.shields.io/badge/-Ansible-c70100?logo=Ansible)
 
   ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray?logo=OPenAI)
   ![Copilot](https://img.shields.io/badge/-Copilot-4f42c6?logo=github)
@@ -93,6 +96,7 @@
   ![DeepSeek](https://img.shields.io/badge/-DeepSeek-8ab0f2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcExNa/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5Na/5glKuKAAAAD3RSTlMA05QmPhvxp+O+dGJWhBD9rd47AAAA0UlEQVQokcWR2RbDIAhEARXXhP//26IYY9o+9pzOQ9C5LkwE+K9CiaTllIfrCJkRReTUWRMyu/VPlKU+rVodOJ+TTvBmwg7Aa83djAAkD3kAXsMg8k6dDehj46LZ9xvZO3+knVIRqaNfSaN4wxGKLWgGr8jjfMRJw/BYM5m6yzKjmYVywL6XzmgRp7N+493WPE3bXltX5nw5ONeFee1941zeqaDivB96vYLGOkby3moO8KSJejfxtPdLG/W82hRslPMBu8rEXOCbQqu1ha/o13oBhAwQQ4gEzPgAAAAASUVORK5CYII=)
 
   ![Nginx](https://img.shields.io/badge/-Nginx-099543?logo=Nginx)
+  ![Traefik](https://img.shields.io/badge/-Traefik-35a6c2?logo=data:image/webp;base64,UklGRlgDAABXRUJQVlA4IEwDAADwFACdASoiACcAPjEMjEYiEREKqCADBLSACem/pf4tfsZ2enkn1s/aPeYv0ntvfVf4n+yX5Ve4H8r3wD+Kfzz8Vf2q/1Wcv/Lf6z+Tf9a1YzjU4s/+B7GH6p/mv7h+U3sp/H/6N/qP8B8AP8a/nX+J/sX7lf47//+AD9jPY2/SIUzVs31+8kt4sywx7DXHZ+G7OSiRUhsI3/KumH7djybrv0r0TSfgV8TNs7cZLHU+XAD+/74ownDvyV8aUkPGpxqXPZbIGExPTo39bB5ZO8Y3BUC/XmOkFZxs8TKIAOP//5HoqCsKWU0w9qxcV/9Yig45qwAHVboSZCcV4prWA77oNXI6dD1wYWwP9d7CyCzsw4y4m73uMBDIBV/ZccOxMzNzki5U1hrW6Utykvoa0ibk27HzwN4DBIUhDjlUyEVrcw2KBDe+zptDUa3UzAyi+C3xQyWj+DYMew7aedcox/M0K+51Ng8AUyu/JPGKT3TW9sMwP/pDQw1PAvzT7UgXA6BoWwM2+qsDseU3I/VXbLgUdQd8HMn7tq4XKFIvnmC2RwXNzw2PVZaQZXDsmSXyK9LCD6YEZZANTioH2bJ/b8zGvOGzgIHLoV868EjZDrAvs+BxVsoGLz7/vx1oog+Wiug7lE0tM0y06TCyhl42lewwTDvNH+LEtxCkFV5OGap4RRbTUa0bzTjY5URzSEbZA7zB51NLfhPIHw6NCGAD3Of3BEewykNSjbcGbBky9o4/YfOHespk2Pjcjpy9jdFGUCkarBlX8BOtQh5L/KoJj6ls7ZOWwNYF7llJGOI3XBHjOjlPd4jnHqPJVFgol5etC2gY3UjL0a5zLSK4NxhTHUMAAloMRv+zsf8YlkHCwPvuvY06v10XTXpq8l5esIK/ysYM1YJI9F1Y1p/GS+dWOB0a6tjJHS4h6IlYOcJdjdmoVuf//Tt//6/H4op8U8svMFTYv/c6dh6vTK6vZ2dW2tGHjXhQayvZnDE1KRQQ+8hBtWnIJLSqRuMzb4fzfSe+z/3lnaQCMygN1pw6yPoK4aQT9YUVhZR3OH8osrJt0e4CDr3WQYOrGcIgmrS4Lf/+FuoAonkxo/emI/VqVXqgOzTwo2e6IXwcK6uusAAA)
   ![Caddy](https://img.shields.io/badge/-Caddy-d6ecda?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwarWcAkN0AkN0AkN0AkN0AkN0AkN4AkN0AkN4AkN4AkN0AkN0AkN0AkN0itjgitjgitjYitjgitjYAkN0itjgAkN0itjgitjgitzAitjgitjgAkN4itzEitjgjuR/NDNU1AAAAIHRSTlMACkWa2v9x9IxaNuoiEMgZQer/nn94qCp0UrnEt2HXM67wCgwAAAFsSURBVHgBldPRcoMgFATQFVkViKbeUFONaf//L+uFyoSZ9qHnLbDA3nGCWoO/mdZS2dbgF12ve4Pz3g2BbYPaJZAcxvJz4oBXjuSUD12RGIax3k8n3mYRuUGN5AXIPMmIw7tkZ8INDorkgsP92PtYN5FHOccAIJI91LGlPW4i11yDMTCmCzzULFuqKbLiMDDCcIcnd+RA7teIPHP1YHTcLtWtAyug66rBQgt1X2d5rM/DMemKwAkxhAaY8ohPqczOpv7QQKr4KbUvpIDXQJMDG5rTl8hbHsQBC3EGinsOYGenbf8O9NrPn088dPYqMJK6QIPD+lzhLdvXQGQaYF8wLn2/+50M1Q0k81czzNgju6ZAR05QtuzjtiUPDTRkfl2TO9CSLWY5XWHLi0v+XKTF9vlj1VV6JG26akwvFro/INOOzgQyophILjjZeobUqpwv+fLHMW1Ke7zyMZox6joT6/CrS9fu0z64Ef/wDWurGHYkk76+AAAAAElFTkSuQmCC)
 ---
 
