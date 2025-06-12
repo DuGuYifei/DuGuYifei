@@ -76,7 +76,7 @@
 
   ![PyTorch](https://img.shields.io/badge/AI-PyTorch-red?logo=pytorch)
   ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-red?logo=deepnote)
-  ![LangChain](https://img.shields.io/badge/AI-LangChaing-red?logo=LangChain)
+  ![LangChain](https://img.shields.io/badge/AI-LangChain-red?logo=LangChain)
 
 - **Server Experience**
 
